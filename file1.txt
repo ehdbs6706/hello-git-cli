@@ -3,4 +3,8 @@ second
 second
 third - mybranch
 forth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 새로운 기능1 추가
